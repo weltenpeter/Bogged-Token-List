@@ -1,0 +1,15 @@
+{
+    "name": "Campfire Finance",
+    "website": "https://campfirefinance.net/",
+    "telegram": "https://t.me/CampfireFinance",
+    "discord": "https://discord.gg/XjQwm24fv9",
+    "twitter": "https://twitter.com/TheCampFireBSC",
+    "description": "$Campfire seeks to empower holders through a meticulous and precisely calculated smart contract. Our aim is to create a safer trading platform on the BSC.",
+    "explorer": "https://bscscan.com/token/0x3a408C5Bec5ADD9035867310D5573bef984d7cc9",
+    "type": "BEP20",
+    "symbol": "CampFire",
+    "decimals": 9,
+    "slippage": 0.1,
+    "status": "active",
+    "id": "0x3a408C5Bec5ADD9035867310D5573bef984d7cc9"
+}
